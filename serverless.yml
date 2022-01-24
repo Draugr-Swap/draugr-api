@@ -13,8 +13,8 @@
 
 service: draugr-api
 # app and org for use with dashboard.serverless.com
-# app: draugr
-# org: muranox
+app: draugr-api
+org: fluffypenguin
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -22,7 +22,6 @@ service: draugr-api
 
 plugins:
   - serverless-webpack
-
 custom:
   webpack:
     webpackConfig: ./webpack.config.js
