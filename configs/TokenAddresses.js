@@ -1,10 +1,10 @@
 export const TokenAddresses = {
-    wbnb: {
-        56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
-        97: '',
+    wftm: {
+        250: '0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83',
+        4002: '',
     },
-    busd: {
-        56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-        97: '',
+    fusd: {
+        250: '',
+        4002: '',
     },
 }

@@ -46,7 +46,7 @@ async function multicall(abi, calls) {
     return res
 }
 
-const CHAIN_ID = 56;
+const CHAIN_ID = 4002;
 
 async function fetchFarms() {
     return await Promise.all(

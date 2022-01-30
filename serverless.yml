@@ -36,8 +36,8 @@ provider:
   profile: draugrFinance
   logRetentionInDays: 30
   environment:
-    Provider: "https://bsc-dataseed.binance.org/"
-    EggAddress: "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6"
+    Provider: "https://rpc.testnet.fantom.network/"
+    EggAddress: "0x1D34e3fC62bC303aD20e09ef622e2CB9F90d8e8A"
     BurnAddress: "0x000000000000000000000000000000000000dead"
 
   iamRoleStatements:
